@@ -1,16 +1,17 @@
-class camelCase:
+# class camelCase:
 
 
-class snake_case:
+# class snake_case:
 
 
-class PascalCase:
+# class PascalCase:
 
 # para las clases usamos pascal case
 
 class Celular():
     marca = "Apple"
-   """objeto>>>>""" modelo = "16 pro max" """<<<< instancia del objeto"""
+"""objeto>>>>""" 
+    modelo = "16 pro max" """<<<< instancia del objeto"""
     camara = "48mpx" #defenimos atributos
 
     celular1 = Celular() #instanciamos un objeto
